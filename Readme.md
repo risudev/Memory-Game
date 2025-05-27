@@ -3,7 +3,7 @@
 A fun and interactive memory game built with HTML, CSS, and JavaScript. Flip cards to find all the matching pairs. Great for beginners looking to strengthen DOM manipulation and layout skills.
  
 # 🔧 Technologies Used
-✅ HTML5
+✅ HTML5<br>
 🎨 CSS3 (can include Tailwind CSS if preferred)<br>
 ⚙️ JavaScript (ES6+)<br>
 
