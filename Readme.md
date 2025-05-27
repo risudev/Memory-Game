@@ -4,8 +4,8 @@ A fun and interactive memory game built with HTML, CSS, and JavaScript. Flip car
  
 # 🔧 Technologies Used
 ✅ HTML5
-🎨 CSS3 (can include Tailwind CSS if preferred)
-⚙️ JavaScript (ES6+)
+🎨 CSS3 (can include Tailwind CSS if preferred)<br>
+⚙️ JavaScript (ES6+)<br>
 
 # 🕹️ Features
 * Click to flip cards and reveal hidden symbols.
@@ -17,12 +17,11 @@ A fun and interactive memory game built with HTML, CSS, and JavaScript. Flip car
 # Live Website
 You can view the live website of the project: 
 
-🚀 Getting Started
+# 🚀 Getting Started
 1. Clone the Repository
-# git clone 
-https://github.com/your-username/memory-game.git
+ git clone https://github.com/your-username/memory-game.git
+ cd memory-game  
 
-# cd memory-game
 2. Open in Browser
 You can simply open index.html in your web browser:
 
